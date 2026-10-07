@@ -1,0 +1,27 @@
+export const profile = {
+  name: 'Pankaj Sharma',
+  title: 'Computer Science Student',
+  focus: 'AI/ML • Full Stack • DSA',
+  tagline: 'Building intelligent software from idea to deployment.',
+  intro: "3rd-year B.Tech CSE student specializing in AI/ML, building full-stack and AI-powered applications while strengthening DSA and software engineering fundamentals.",
+  status: 'Open to software engineering internships & campus opportunities',
+  degree: 'B.Tech Computer Science & Engineering',
+  university: 'Lovely Professional University (LPU)',
+  duration: '2024–2028',
+  year: '3rd Year',
+  specialization: 'AI/ML',
+  cgpa: '7.64',
+  location: 'Himachal Pradesh, India',
+  about: [
+    'I am a third-year B.Tech Computer Science & Engineering student at Lovely Professional University, specializing in AI/ML.',
+    'I enjoy building practical software and AI-powered applications.',
+    'I am particularly interested in turning ideas into usable applications and continuously improving my problem-solving and engineering skills.',
+  ],
+  learningPath: ['DSA', 'Full Stack Development', 'AI/ML', 'Cloud Fundamentals', 'Cybersecurity Fundamentals'],
+  journey: [
+    { year: '2024', title: 'Started B.Tech CSE', items: ['Joined LPU'] },
+    { year: '2025', title: 'Foundations', items: ['Programming', 'DBMS', 'Web Development', 'Projects'] },
+    { year: '2026', title: 'Specialising', items: ['AI/ML', 'Full Stack', 'DSA'] },
+    { year: 'Now', title: 'Placement season', items: ['Projects', 'Problem Solving', 'Placement Preparation'] },
+  ],
+}
